@@ -31,3 +31,4 @@ jobs:
       - name: run Notepad
         run: notepad
         continue-on-error: true
+        
